@@ -1,16 +1,24 @@
 <!DOCTYPE html>
 <html lang="en-us">
-
 <head>
     <meta charset="UTF-8" />
-    <link rel="stylesheet" href="./assets/css/style.css">
-    <title>website</title>
+
+    <!--Added the meta tags for search engine optimization -->
+    <meta name="keywords" content="online, marketing, SEO">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    
+    <!-- Updated the title to reflect the Company name -->
+    <title>Horiseon Digital Marketing</title>
+    <link rel="stylesheet" href="./assets/css/style.css" type="text/css">
 </head>
 
 <body>
-    <div class="header">
+    <!-- Using header tag to use semantic HTML elements for accessibility-->
+    <header>
         <h1>Hori<span class="seo">seo</span>n</h1>
-        <div>
+        <!-- Using nav tag to use semantic HTML elements for accessibility-->
+        <nav>
             <ul>
                 <li>
                     <a href="#search-engine-optimization">Search Engine Optimization</a>
@@ -22,11 +30,12 @@
                     <a href="#social-media-marketing">Social Media Marketing</a>
                 </li>
             </ul>
-        </div>
-    </div>
+        </nav>
+    </header>
     <div class="hero"></div>
     <div class="content">
-        <div class="search-engine-optimization">
+        <!-- Added the missing id to make the header nav link work -->
+        <div id="search-engine-optimization" class="search-engine-optimization">
             <img src="./assets/images/search-engine-optimization.jpg" class="float-left" />
             <h2>Search Engine Optimization</h2>
             <p>
@@ -71,12 +80,13 @@
             </p>
         </div>
     </div>
-    <div class="footer">
+    <!--using footer tag to use semantic HTML elements for accessibility-->
+    <footer>
         <h2>Made with ❤️️ by Horiseon</h2>
         <p>
             &copy; 2019 Horiseon Social Solution Services, Inc.
         </p>
-    </div>
+    </footer>
 </body>
 
 </html>
