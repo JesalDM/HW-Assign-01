@@ -44,3 +44,12 @@ THEN I find a concise, descriptive title
 - Ensured that all the HTML elements follow a logical structure and are in sequential order.
 
 ```
+
+## For Review
+
+```
+Deployed Application URL: https://jesaldm.github.io/HW-Assign-01/
+Github Repository URL: https://github.com/JesalDM/HW-Assign-01
+
+```
+
