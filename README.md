@@ -1,12 +1,10 @@
 # HW-Assign-01
 Homework Assignment Week 1 - Code Refactor
 
-## User Story
-
+## Description
 ```
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
+Web accessibility is an increasingly important consideration for businesses. It ensures that people with disabilities can access a website using assistive technologies such as video captions, screen readers, and braille keyboards. Making a website accessible is also good for business for many reasons, one of them being that accessible sites are better positioned in search engines like Google. It also helps companies avoid litigation that can occur when people with disabilities cannot access their website.
+
 ```
 
 ## Mock-Up
@@ -14,6 +12,14 @@ SO THAT our own site is optimized for search engines
 The following image shows the web application's appearance and functionality:
 
 ![code refactor demo](./assets/images/01-html-css-git-homework-demo.png)
+
+## User Story
+
+```
+AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines
+```
 
 ## Acceptance Criteria
 
@@ -31,9 +37,12 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 ```
+
 ## My Contribution
 
 ```
+As part of this assignment, I've taken the existing code and refactored it to meet the above laid-out acceptance criteria. Here is my contribution to the code:
+
 - Refactored the title so that it is descriptive and relevant to the webpage.
 - Added the meta tags for search engine optimization.
 - Refactored the header and footer code so that the elements are HTML semantic.
@@ -50,6 +59,7 @@ THEN I find a concise, descriptive title
 ```
 Deployed Application URL: https://jesaldm.github.io/HW-Assign-01/
 Github Repository URL: https://github.com/JesalDM/HW-Assign-01
+Screenshot: ![Screenshot post code refactor](./assets/images/HW-01-screenshot.png)
 
 ```
 
