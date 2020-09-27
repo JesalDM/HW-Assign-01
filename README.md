@@ -55,10 +55,7 @@ As part of this assignment, I've taken the existing code and refactored it to me
 
 ## For Review
 
-```
-Deployed Application URL: https://jesaldm.github.io/HW-Assign-01/
-Github Repository URL: https://github.com/JesalDM/HW-Assign-01
-Screenshot: ![Screenshot post code refactor](./assets/images/HW-01-screenshot.png)
-
-```
+* Deployed Application URL: https://jesaldm.github.io/HW-Assign-01/
+* Github Repository URL: https://github.com/JesalDM/HW-Assign-01
+* Screenshot: ![Screenshot post code refactor](./assets/images/HW-01-screenshot.png)
 
